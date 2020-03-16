@@ -13,4 +13,4 @@ Here's a screenshot using the Org Manual as an example:
 
 If you don't want to see a message if the entry has no backlinks then set org-backlink-mode-show-no-backlink-message to nil.
 
-*I don't maintain this code. I just posted it in case others find it useful. Please don't submit pull requests.*
+*This code works for me, I don't plan to develop it further. I just posted it in case others find it useful. Please don't submit pull requests.*
